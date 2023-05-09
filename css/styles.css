@@ -3,7 +3,7 @@ body{
   font-family: 'Epilogue', sans-serif;
 }
 .container{
-  width: 1176px;
+  /* width: 1176px; */
   padding: 0 15px;
   margin-left: auto;
   margin-right: auto;
