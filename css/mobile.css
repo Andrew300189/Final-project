@@ -2,5 +2,10 @@
   .container{
     max-width: 428px;
   }
-  
+  .sale-icon-item img{
+    width: 80px;
+  }
+  .sale-biggest-icon{
+    width: 235px;
+  }
 }
